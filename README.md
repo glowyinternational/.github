@@ -1,1 +1,1 @@
-# .github
+# Glowy International
